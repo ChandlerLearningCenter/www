@@ -1,1 +1,11 @@
-{}
+{
+  "name": "www",
+  "version": "0.1.0",
+  "main": "server.js",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+  },
+  "engine": "node >= 0.8.4"
+}
