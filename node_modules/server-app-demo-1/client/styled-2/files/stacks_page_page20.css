@@ -1,0 +1,78 @@
+
+#stacks_in_64_page20 .stacks_left {
+	float:left;
+	width:19%;
+}
+
+#stacks_in_64_page20 .stacks_right {
+	float:right;
+	width:19%;
+}
+
+#stacks_in_64_page20 .stacks_middle {
+	position:relative;
+	margin:0 auto;
+	width:58%;
+}
+#stacks_in_70_page20 {
+	margin: 0px 0px 0px 60px;
+}
+
+#stacks_in_64_page20 {
+	margin: 2px 2px 2px 2px;
+	padding: 5px 5px 5px 5px;
+}
+
+#stacks_in_72_page20 .stacks_left {
+	float:left;
+	width:49%;
+}
+
+#stacks_in_72_page20 .stacks_right {
+	float:right;
+	width:49%;
+}
+#stacks_in_74_page20 {
+	margin: 0px 0px 0px 30px;
+}
+
+#stacks_out_79_page20 {
+	margin-right:0;
+}
+
+#stacks_in_79_page20 {
+	margin: 0px 0px 0px 80px;
+}
+
+#stacks_out_81_page20 {
+	margin-left:0;
+}
+
+#stacks_in_81_page20 {
+	margin: 0px 0px 2px 22px;
+}
+
+#stacks_in_83_page20 .stacks_left {
+	float:left;
+	width:19%;
+}
+
+#stacks_in_83_page20 .stacks_right {
+	float:right;
+	width:19%;
+}
+
+#stacks_in_83_page20 .stacks_middle {
+	position:relative;
+	margin:0 auto;
+	width:58%;
+}
+#stacks_in_89_page20 {
+	margin: 2px 2px 2px 60px;
+	padding: 0px 5px 5px 5px;
+}
+
+#stacks_in_83_page20 {
+	margin: 2px 2px 2px 2px;
+	padding: 5px 5px 5px 5px;
+}

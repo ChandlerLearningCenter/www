@@ -1,0 +1,11 @@
+.wrapper {
+	width: 960px;
+}
+
+#featureImage, #extraContainer1  {
+	width: 940px;
+}
+
+#content{
+	width: 740px;
+}

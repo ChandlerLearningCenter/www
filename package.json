@@ -1,11 +1,13 @@
 {
-  "name": "www",
+  "name": "rootweb",
   "version": "0.1.0",
   "main": "server.js",
   "engines": {
     "node": ">=0.6"
   },
   "dependencies": {
+    "express": "3.0.X",
+    "server-launch": "0.1.X"
   },
   "engine": "node >= 0.8.4"
 }

@@ -1,0 +1,42 @@
+/* TEXT COLORS */
+
+body {
+	color: #666666;
+}
+
+a{
+	color: #22B2FF;
+}
+
+section a:hover,
+aside a:hover{
+	color: #2BB8D4;
+}
+
+h1, h2, h3, h4, h5, h6,
+span#asideTitle,
+.album-title, .movie-page-title,
+h1.blog-entry-title, 
+h1.blog-entry-title a,
+#blog-categories:before,
+#blog-archives:before,
+ul.blog-tag-cloud:before,
+#blog-rss-feeds:before {
+	color: #484848;
+}
+
+#extraContainer2 h1{
+	color: #3B3B3B;
+}
+
+#extraContainer2 {
+	color: #666666;
+}
+
+#billboard{
+	background-color: #FFF0D7;
+}
+
+.blog-entry-date, .blog-entry-tags{
+	color: #727272;
+}
